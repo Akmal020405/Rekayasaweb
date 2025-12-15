@@ -12,12 +12,12 @@ Proyek ini adalah hasil implementasi dari serangkaian modul praktikum Pengembang
 
 | Fitur | Deskripsi | Tampilan (File) |
 | :--- | :--- | :--- |
-| **Home Page** | Halaman *landing* sederhana yang menampilkan identitas mahasiswa. | ![Home Page](sc/home.png) |
-| **Dashboard Admin** | Halaman utama bagi pengguna dengan peran Admin. Menyediakan *link* cepat ke Manajemen Post dan CRUD Mahasiswa. | ![Dashboard Admin](sc/dashboard.png)|
-| **Data Mahasiswa** | Implementasi penuh **CRUD** (Create, Read, Update, Delete) untuk data akademik (`nama`, `nim`, `fakultas`). | ![Daftar Mahasiswa](sc/daftar mahasiswa.png) |
-| **Sistem Blog** | Fitur Blog sederhana dengan aksi Lihat, Edit, dan Hapus. Akses Edit/Hapus dikontrol menggunakan **Laravel Policy (Authorization)**. | ![Daftar Post Blog](sc/blog.png) |
-| **Profil & About** | Menampilkan profil mahasiswa dan daftar modul praktikum yang dipelajari (termasuk `Laravel CRUD`, `Laravel API CRUD`, `ReactJS`). | ![Halaman About](sc/about.png) |
-| **Kontak** | Halaman informasi kontak (`Email`, `WhatsApp`, `Telegram`). | ![Halaman Contact](sc/contact.png) |
+| **Home Page** | Halaman *landing* sederhana yang menampilkan identitas mahasiswa. | [![Home Page](sc/home.png)](sc/home.png) |
+| **Dashboard Admin** | Halaman Admin dengan akses ke **Manajemen Post** dan **Data Mahasiswa (CRUD)**. | [![Dashboard Admin](sc/dashboard.png)](sc/dashboard.png) |
+| **Data Mahasiswa** | Implementasi penuh **CRUD** untuk mengelola data akademik (`nama`, `nim`, `fakultas`). | [![Daftar Mahasiswa](sc/daftar mahasiswa.png)](sc/daftar mahasiswa.png) |
+| **Sistem Blog** | Fitur Blog dasar (Create, Read, Update, Delete) yang dilindungi oleh **Laravel Policy (Authorization)**. | [![Daftar Post Blog](sc/blog.png)](sc/blog.png) |
+| **Profil & About** | Menampilkan identitas mahasiswa dan daftar materi praktikum yang telah dipelajari. | [![Halaman About](sc/about.png)](sc/about.png) |
+| **Kontak** | Halaman informasi kontak pengguna. | [![Halaman Contact](sc/contact.png)](sc/contact.png) |
 
 ---
 
@@ -46,5 +46,8 @@ php artisan key:generate
 # 4. Jalankan Migration (Membuat tabel users, posts, mahasiswas)
 php artisan migrate
 
-# 5. Jalankan Server
+# 5. Instal Dependensi Frontend (Opsional, jika menggunakan Vite/Mix)
+# npm install && npm run dev
+
+# 6. Jalankan Server
 php artisan serve
