@@ -56,6 +56,10 @@ Aplikasi dapat diakses di `http://127.0.0.1:8000/`.
 
 ---
 
+Aplikasi dapat diakses di `http://127.0.0.1:8000/`.
+
+---
+
 ### 📚 Modul Pembelajaran Utama yang Diimplementasikan
 
 | Modul Pembelajaran | Konsep Kunci yang Diterapkan |
