@@ -20,7 +20,28 @@ Proyek ini adalah hasil implementasi dari serangkaian modul praktikum Pengembang
 | **Kontak** | Halaman informasi kontak pengguna. | [![Halaman Contact](sc/contact.png)](sc/contact.png) |
 
 ---
+### 📚 Modul Pembelajaran Utama yang Diimplementasikan
 
+| Modul Pembelajaran | Konsep Kunci yang Diterapkan |
+| :--- | :--- |
+| **Dasar-dasar MVC** | Routing, Controller, **Blade Template** (Layout Inheritance, Partials). |
+| **Database & ORM** | Migration (`mahasiswas`, `posts`), Seeder, dan Eloquent. |
+| **Authentication & Authorization** | Sistem Login/Register, dan **Laravel Policy** untuk kontrol akses pada Post. |
+| **RESTful API** | Pembuatan API Resource Controller dan endpoint `/api/posts` untuk JSON output. |
+| **CRUD & Resources** | Penggunaan Resource Controller untuk efisiensi CRUD Data Mahasiswa dan Post. |
+
+---
+### 🧑‍💻 Tentang Proyek
+
+Proyek ini dikerjakan oleh:
+
+* **Nama:** Akmal Muhammad Akbar
+* **NIM:** 6.211.23.0050
+* **Mata Kuliah:** Rekayasa Web
+
+**Glory-glory Man United!** 🔴⚫
+
+---
 ### ⚙️ Persiapan & Instalasi Proyek
 
 #### 1. Prasyarat
@@ -51,33 +72,6 @@ php artisan migrate
 
 # 6. Jalankan Server
 php artisan serve
-
-Aplikasi dapat diakses di `http://127.0.0.1:8000/`.
-
 ---
 
 Aplikasi dapat diakses di `http://127.0.0.1:8000/`.
-
----
-
-### 📚 Modul Pembelajaran Utama yang Diimplementasikan
-
-| Modul Pembelajaran | Konsep Kunci yang Diterapkan |
-| :--- | :--- |
-| **Dasar-dasar MVC** | Routing, Controller, **Blade Template** (Layout Inheritance, Partials). |
-| **Database & ORM** | Migration (`mahasiswas`, `posts`), Seeder, dan Eloquent. |
-| **Authentication & Authorization** | Sistem Login/Register, dan **Laravel Policy** untuk kontrol akses pada Post. |
-| **RESTful API** | Pembuatan API Resource Controller dan endpoint `/api/posts` untuk JSON output. |
-| **CRUD & Resources** | Penggunaan Resource Controller untuk efisiensi CRUD Data Mahasiswa dan Post. |
-
----
-
-### 🧑‍💻 Tentang Proyek
-
-Proyek ini dikerjakan oleh:
-
-* **Nama:** Akmal Muhammad Akbar
-* **NIM:** 6.211.23.0050
-* **Mata Kuliah:** Rekayasa Web
-
-**Glory-glory Man United!** 🔴⚫
