@@ -12,12 +12,12 @@ Proyek ini adalah hasil implementasi dari serangkaian modul praktikum Pengembang
 
 | Fitur | Deskripsi | Tampilan (File) |
 | :--- | :--- | :--- |
-| **Home Page** | Halaman *landing* sederhana yang menampilkan identitas mahasiswa. | [Home Page](sc/home.png) |
-| **Dashboard Admin** | Halaman utama bagi pengguna dengan peran Admin. Menyediakan *link* cepat ke Manajemen Post dan CRUD Mahasiswa. | [Dashboard Admin](sc/dashboard.png)|
-| **Data Mahasiswa** | Implementasi penuh **CRUD** (Create, Read, Update, Delete) untuk data akademik (`nama`, `nim`, `fakultas`). | [Daftar Mahasiswa](sc/daftar mahasiswa.png) |
-| **Sistem Blog** | Fitur Blog sederhana dengan aksi Lihat, Edit, dan Hapus. Akses Edit/Hapus dikontrol menggunakan **Laravel Policy (Authorization)**. | [Daftar Post Blog](sc/blog.png) |
-| **Profil & About** | Menampilkan profil mahasiswa dan daftar modul praktikum yang dipelajari (termasuk `Laravel CRUD`, `Laravel API CRUD`, `ReactJS`). | [Halaman About](sc/about.png) |
-| **Kontak** | Halaman informasi kontak (`Email`, `WhatsApp`, `Telegram`). | [Halaman Contact](sc/contact.png) |
+| **Home Page** | Halaman *landing* sederhana yang menampilkan identitas mahasiswa. | ![Home Page](sc/home.png) |
+| **Dashboard Admin** | Halaman utama bagi pengguna dengan peran Admin. Menyediakan *link* cepat ke Manajemen Post dan CRUD Mahasiswa. | ![Dashboard Admin](sc/dashboard.png)|
+| **Data Mahasiswa** | Implementasi penuh **CRUD** (Create, Read, Update, Delete) untuk data akademik (`nama`, `nim`, `fakultas`). | ![Daftar Mahasiswa](sc/daftar mahasiswa.png) |
+| **Sistem Blog** | Fitur Blog sederhana dengan aksi Lihat, Edit, dan Hapus. Akses Edit/Hapus dikontrol menggunakan **Laravel Policy (Authorization)**. | ![Daftar Post Blog](sc/blog.png) |
+| **Profil & About** | Menampilkan profil mahasiswa dan daftar modul praktikum yang dipelajari (termasuk `Laravel CRUD`, `Laravel API CRUD`, `ReactJS`). | ![Halaman About](sc/about.png) |
+| **Kontak** | Halaman informasi kontak (`Email`, `WhatsApp`, `Telegram`). | ![Halaman Contact](sc/contact.png) |
 
 ---
 
