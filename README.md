@@ -14,7 +14,7 @@ Proyek ini adalah hasil implementasi dari serangkaian modul praktikum Pengembang
 | :--- | :--- | :--- |
 | **Home Page** | Halaman *landing* sederhana yang menampilkan identitas mahasiswa. | [![Home Page](sc/home.png)](sc/home.png) |
 | **Dashboard Admin** | Halaman Admin dengan akses ke **Manajemen Post** dan **Data Mahasiswa (CRUD)**. | [![Dashboard Admin](sc/dashboard.png)](sc/dashboard.png) |
-| **Data Mahasiswa** | Implementasi penuh **CRUD** untuk mengelola data akademik (`nama`, `nim`, `fakultas`). | [![Daftar Mahasiswa](sc/daftar mahasiswa.png)](sc/daftar mahasiswa.png) |
+| **Data Mahasiswa** | Implementasi penuh **CRUD** untuk mengelola data akademik (`nama`, `nim`, `fakultas`). | [![Daftar Mahasiswa](sc/daftar_mahasiswa.png)](sc/daftar_mahasiswa.png) |
 | **Sistem Blog** | Fitur Blog dasar (Create, Read, Update, Delete) yang dilindungi oleh **Laravel Policy (Authorization)**. | [![Daftar Post Blog](sc/blog.png)](sc/blog.png) |
 | **Profil & About** | Menampilkan identitas mahasiswa dan daftar materi praktikum yang telah dipelajari. | [![Halaman About](sc/about.png)](sc/about.png) |
 | **Kontak** | Halaman informasi kontak pengguna. | [![Halaman Contact](sc/contact.png)](sc/contact.png) |
