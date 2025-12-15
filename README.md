@@ -21,24 +21,19 @@ Aplikasi ini menggabungkan backend yang kuat menggunakan **Laravel** dan antarmu
 Berikut adalah tampilan antarmuka dari aplikasi yang telah dibangun:
 
 ### 1. Halaman Home
-Halaman utama dengan logo besar Manchester United.
-![Halaman Home](home.png)
+![Halaman Home](sc/home.png)
 
-### 2. Halaman About (Tentang Saya)
-Menampilkan informasi profil mahasiswa pengembang aplikasi.
-![Halaman About](about.png)
+### 2. Halaman About
+![Halaman About](sc/about.png)
 
-### 3. Halaman Contact (Hubungi Kami)
-Informasi kontak yang dapat dihubungi (Email, WhatsApp, Telegram).
-![Halaman Contact](contact.png)
+### 3. Halaman Contact
+![Halaman Contact](sc/contact.png)
 
-### 4. Halaman Blog (Public View)
-Daftar postingan yang dapat dilihat oleh pengunjung.
-![Halaman Blog](blog.png)
+### 4. Halaman Blog
+![Halaman Blog](sc/blog.png)
 
-### 5. Halaman Dashboard Admin (CRUD)
-Fitur manajemen postingan (Edit & Hapus) yang dibangun dengan React.
-![Dashboard Admin](admin.png)
+### 5. Dashboard Admin
+![Dashboard Admin](sc/admin.png)
 
 ---
 
