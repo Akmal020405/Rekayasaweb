@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -170,4 +169,3 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal (Lo
 ## 📄 Lisensi
 
 Proyek ini bersifat open-source di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
->>>>>>> e7a25a723b25fc2de9d820c6a570a8cae44ca7dd
