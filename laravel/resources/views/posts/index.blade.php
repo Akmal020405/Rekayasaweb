@@ -115,7 +115,7 @@
                     Lihat
                 </a>
 
-                @if(Auth::id() == $post->user_id || Auth::user()->is_admin)
+                @if (Auth::check() && (Auth::id() == $post->user_id || Auth::user()?->is_admin))
                     <a href="{{ route('posts.edit', $post) }}" class="mu-btn-edit">
                         Edit
                     </a>
